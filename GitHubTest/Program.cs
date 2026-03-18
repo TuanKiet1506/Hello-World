@@ -6,7 +6,8 @@
     }
     public static void Main(String[] args)
     {
-        WriteSomeThing("Hello VietNam");
-        WriteSomeThing("Update From A !"); 
+        WriteSomeThing("Hello VietNam"); 
+        WriteSomeThing("Update From A !");
+        WriteSomeThing("Hello From B !"); 
     }
 }
