@@ -9,6 +9,10 @@
         WriteSomeThing("Hello VietNam");
         WriteSomeThing("Update From A !");
         WriteSomeThing("More Update !"); 
-        WriteSomeThing("Hello "); 
+        WriteSomeThing("Hello ");
+
+        // Dev A sua
+        WriteSomeThing("Hello America !!!");
+        WriteSomeThing("Update From A"); 
     }
 }
