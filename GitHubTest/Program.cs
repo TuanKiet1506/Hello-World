@@ -13,6 +13,10 @@
 
         // Dev A sua
         WriteSomeThing("Hello America !!!");
-        WriteSomeThing("Update From A"); 
+        WriteSomeThing("Update From A");
+
+        // Dev B them
+        WriteSomeThing("Hahaha");
+        WriteSomeThing("Le Dat Tuan Kiet"); 
     }
 }
