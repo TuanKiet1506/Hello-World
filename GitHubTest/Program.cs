@@ -7,6 +7,7 @@
     public static void Main(String[] args)
     {
         WriteSomeThing("Hello VietNam");
-        WriteSomeThing("Update From A !"); 
+        WriteSomeThing("Update From A !");
+        WriteSomeThing("More Update !"); 
     }
 }
